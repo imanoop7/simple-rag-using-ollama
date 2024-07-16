@@ -8,12 +8,8 @@ Welcome to the `simple-rag-using-only-ollama` repository! This project demonstra
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Disclaimer](#disclaimer)
-- [Links](#links)
 
 ## Overview
 
